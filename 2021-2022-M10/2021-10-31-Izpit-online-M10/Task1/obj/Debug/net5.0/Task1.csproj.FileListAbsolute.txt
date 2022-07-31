@@ -1,0 +1,16 @@
+F:\repos\2021-10-31-Izpit-online-M10\Task1\bin\Debug\net5.0\Task1.exe
+F:\repos\2021-10-31-Izpit-online-M10\Task1\bin\Debug\net5.0\Task1.deps.json
+F:\repos\2021-10-31-Izpit-online-M10\Task1\bin\Debug\net5.0\Task1.runtimeconfig.json
+F:\repos\2021-10-31-Izpit-online-M10\Task1\bin\Debug\net5.0\Task1.runtimeconfig.dev.json
+F:\repos\2021-10-31-Izpit-online-M10\Task1\bin\Debug\net5.0\Task1.dll
+F:\repos\2021-10-31-Izpit-online-M10\Task1\bin\Debug\net5.0\ref\Task1.dll
+F:\repos\2021-10-31-Izpit-online-M10\Task1\bin\Debug\net5.0\Task1.pdb
+F:\repos\2021-10-31-Izpit-online-M10\Task1\obj\Debug\net5.0\Task1.csprojAssemblyReference.cache
+F:\repos\2021-10-31-Izpit-online-M10\Task1\obj\Debug\net5.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\2021-10-31-Izpit-online-M10\Task1\obj\Debug\net5.0\Task1.AssemblyInfoInputs.cache
+F:\repos\2021-10-31-Izpit-online-M10\Task1\obj\Debug\net5.0\Task1.AssemblyInfo.cs
+F:\repos\2021-10-31-Izpit-online-M10\Task1\obj\Debug\net5.0\Task1.csproj.CoreCompileInputs.cache
+F:\repos\2021-10-31-Izpit-online-M10\Task1\obj\Debug\net5.0\Task1.dll
+F:\repos\2021-10-31-Izpit-online-M10\Task1\obj\Debug\net5.0\ref\Task1.dll
+F:\repos\2021-10-31-Izpit-online-M10\Task1\obj\Debug\net5.0\Task1.pdb
+F:\repos\2021-10-31-Izpit-online-M10\Task1\obj\Debug\net5.0\Task1.genruntimeconfig.cache
