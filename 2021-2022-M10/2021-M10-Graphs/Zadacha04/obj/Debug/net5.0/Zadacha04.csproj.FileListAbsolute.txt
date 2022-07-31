@@ -1,0 +1,15 @@
+F:\repos\2021-M10-Graphs\Zadacha04\bin\Debug\net5.0\Zadacha04.exe
+F:\repos\2021-M10-Graphs\Zadacha04\bin\Debug\net5.0\Zadacha04.deps.json
+F:\repos\2021-M10-Graphs\Zadacha04\bin\Debug\net5.0\Zadacha04.runtimeconfig.json
+F:\repos\2021-M10-Graphs\Zadacha04\bin\Debug\net5.0\Zadacha04.runtimeconfig.dev.json
+F:\repos\2021-M10-Graphs\Zadacha04\bin\Debug\net5.0\Zadacha04.dll
+F:\repos\2021-M10-Graphs\Zadacha04\bin\Debug\net5.0\ref\Zadacha04.dll
+F:\repos\2021-M10-Graphs\Zadacha04\bin\Debug\net5.0\Zadacha04.pdb
+F:\repos\2021-M10-Graphs\Zadacha04\obj\Debug\net5.0\Zadacha04.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\2021-M10-Graphs\Zadacha04\obj\Debug\net5.0\Zadacha04.AssemblyInfoInputs.cache
+F:\repos\2021-M10-Graphs\Zadacha04\obj\Debug\net5.0\Zadacha04.AssemblyInfo.cs
+F:\repos\2021-M10-Graphs\Zadacha04\obj\Debug\net5.0\Zadacha04.csproj.CoreCompileInputs.cache
+F:\repos\2021-M10-Graphs\Zadacha04\obj\Debug\net5.0\Zadacha04.dll
+F:\repos\2021-M10-Graphs\Zadacha04\obj\Debug\net5.0\ref\Zadacha04.dll
+F:\repos\2021-M10-Graphs\Zadacha04\obj\Debug\net5.0\Zadacha04.pdb
+F:\repos\2021-M10-Graphs\Zadacha04\obj\Debug\net5.0\Zadacha04.genruntimeconfig.cache
