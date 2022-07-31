@@ -1,0 +1,16 @@
+F:\repos\2021-M10-Combinatorics\Zadacha03\bin\Debug\net5.0\Zadacha03.exe
+F:\repos\2021-M10-Combinatorics\Zadacha03\bin\Debug\net5.0\Zadacha03.deps.json
+F:\repos\2021-M10-Combinatorics\Zadacha03\bin\Debug\net5.0\Zadacha03.runtimeconfig.json
+F:\repos\2021-M10-Combinatorics\Zadacha03\bin\Debug\net5.0\Zadacha03.runtimeconfig.dev.json
+F:\repos\2021-M10-Combinatorics\Zadacha03\bin\Debug\net5.0\Zadacha03.dll
+F:\repos\2021-M10-Combinatorics\Zadacha03\bin\Debug\net5.0\ref\Zadacha03.dll
+F:\repos\2021-M10-Combinatorics\Zadacha03\bin\Debug\net5.0\Zadacha03.pdb
+F:\repos\2021-M10-Combinatorics\Zadacha03\obj\Debug\net5.0\Zadacha03.csprojAssemblyReference.cache
+F:\repos\2021-M10-Combinatorics\Zadacha03\obj\Debug\net5.0\Zadacha03.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\2021-M10-Combinatorics\Zadacha03\obj\Debug\net5.0\Zadacha03.AssemblyInfoInputs.cache
+F:\repos\2021-M10-Combinatorics\Zadacha03\obj\Debug\net5.0\Zadacha03.AssemblyInfo.cs
+F:\repos\2021-M10-Combinatorics\Zadacha03\obj\Debug\net5.0\Zadacha03.csproj.CoreCompileInputs.cache
+F:\repos\2021-M10-Combinatorics\Zadacha03\obj\Debug\net5.0\Zadacha03.dll
+F:\repos\2021-M10-Combinatorics\Zadacha03\obj\Debug\net5.0\ref\Zadacha03.dll
+F:\repos\2021-M10-Combinatorics\Zadacha03\obj\Debug\net5.0\Zadacha03.pdb
+F:\repos\2021-M10-Combinatorics\Zadacha03\obj\Debug\net5.0\Zadacha03.genruntimeconfig.cache
